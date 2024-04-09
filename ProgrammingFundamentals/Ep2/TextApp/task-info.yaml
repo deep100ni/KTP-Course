@@ -4,7 +4,7 @@ files:
     visible: true
     placeholders:
       - offset: 70
-        length: 6
+        length: 23
         placeholder_text: TODO()
         initial_state:
           length: 6
@@ -12,12 +12,16 @@ files:
         initialized_from_dependency: false
         encrypted_possible_answer: rPfwbHgdmg2wTNLXE+vL21bidj9nOGojFdcSevbbJ/o=
         selected: false
-        status: Unchecked
+        status: Solved
+        is_visible: false
     encrypted_text: 7MBEVo9g9k8GnP4uM05YrkvQThWqQQe8oCYRVPues0d7DMixxKZ0Q4pjfATKxahk/swZ9NJwVQ8Seb1QXGmAWeNuUNOs7en0/zxUccZLznm3hkYVpm7kepDFW2yz/7eIrwyC29IRIMClL2HXnHDM/6/7tZ8ap6r17hE4ZnT9AR4=
     learner_created: false
   - name: test/Tests.kt
     visible: false
     encrypted_text: ITs8Nv8EH6QWJG5nufD7nJbQJMkIq6jNfe9FYz1aEl1vh4qG4Kwaqp+k/kNLztMfoMeHo9bs3BdOmaKeB5lspSuUB4CQ7phQqhb5Q9b85ZnBIWxJhCvt446hrUuVOE0ipadceiUaLUIYlNQQql0A/gA/LlW7cNCNxYl5d1uyaeqSBVmYhgm1iQnFVircv/XiCK3Airjkk11CkZ9c0esFY1ILUl6uhBHeBfw5d+X8cEuRmIEEVgeQG8f4Gy+ZZvjJmMFqWXefLmWq/PJoSOoMYg==
     learner_created: false
-status: Unchecked
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Tue, 09 Apr 2024 23:32:52 UTC"
 record: -1
