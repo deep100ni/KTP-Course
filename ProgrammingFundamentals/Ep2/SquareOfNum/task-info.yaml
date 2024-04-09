@@ -4,7 +4,7 @@ files:
     visible: true
     placeholders:
       - offset: 83
-        length: 6
+        length: 10
         placeholder_text: TODO()
         initial_state:
           length: 6
@@ -12,12 +12,16 @@ files:
         initialized_from_dependency: false
         encrypted_possible_answer: A+KGvYYG6lCaiEllQbWBcw==
         selected: false
-        status: Unchecked
+        status: Solved
+        is_visible: false
     encrypted_text: 7MBEVo9g9k8GnP4uM05YrnVOIU6BkSwdtV4S0PhyIB70HN0GsMT6oLUOTBKK9qv0wxBFwfa+fj2Y2wJvdgCfbRkHTYxJdV6Zi0keqWly9ZyKErCdrlgxkrLtO2DJ/yi8FkRbZ9uaDjOFiRUUkGQ72rSBUrtmfd+5bAm4bLn3HLpE0/tN3l72D8oOldbYa2fg
     learner_created: false
   - name: test/Tests.kt
     visible: false
     encrypted_text: ITs8Nv8EH6QWJG5nufD7nJiKrL/0/cBGxw7VDddXMhOr/RPsmsB/uqU3y9xXf+sqW7XQ9mF2fG9mntnYOR0liMQI8Hov82aeIKbC9V9QIZSHYT6RBFIBI6tAoMi7Fd4kjnPxzig6XnGBgtqmHoiPVpGGM5qIbmcA6frSYiWfrgL84kec+MSvvJ8k79+s257/s8Xe+5sozh+uUE6fkKDLStS9TsD4qXDF9XkCidfxGQAjbqZ+ztitwFx441Z912/1Ns4gEncUaa21KDTJuwxvUcSdcV2LD33buhIKBCooZgWkJWySQ9kuKKULphsayybq/DkyrvO34MhV566eIdRIdckU4LMBYNmRvmVXRMY+Fs7FaqKZBrsQb5SOvynwcc6/5B/EzM2+/PZ05zjnbIvG2sgOGCztfFS/ZewqAK2w0KP+e886vuaMwbEwOAf9N+IbRB9n5xcDek9Z5mKUXAm6bHv38LpcdOVIUVYd30LhMsCjAIzHCNoEEkPjTXT/QY8E6mOG0ONKgGteV6wmpVyfUjs9QTxe/36xpUNxzzHbgEo+ghJBaJNPAcH5MgP6vMPLm5MfrQ+WJ4UBw1l2f8W1TXcHQzIksKarYhrLq1CEho8IjqIWIoPxi06mXECOCnzVn7d1ZRJDbcmNOI8KGCJMLFa7/llcrlOAnfwialxMGm4oTjCgNxvRH/WZ4MU859DR3RGGevK+MuEljVgrNgDfNscaHTSP6g/tzM3t1Vg7DLDSWvJ+z5XQ/xasKaemC5GtkkA7V1swAR3XcydXQDROXduKGDdikrzrZcFcdIgAO6ZQy8Gog+xgDJKJ6esxK5HxdRRk7t5btcTyFJY0Af0KnWDt5aJ+FuzaZzZp84bdZMgaZeVMIicSuTj+bIBTMx6FGZbD6jBczMqObmPvoiaxESORd+Aw7kmKOyr+dsSj42+Fw9/DgNw43rffS1H3QmO4NTfmrN4efNETLlds+G23zzcKnTvNKRBPBTI+VgbQtY0wuL2SFjLGXZlS04OuT2fvfRzstDO/rdSAZZTpTAw6aw==
     learner_created: false
-status: Unchecked
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Tue, 09 Apr 2024 23:33:00 UTC"
 record: -1
