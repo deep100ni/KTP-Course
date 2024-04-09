@@ -1,7 +1,11 @@
 import com.faangx.ktp.basics.MaxOfTwoNumsMiniApp
 
 fun maxOf(x: Int, y: Int): Int {
-    TODO()
+    if (x>y){
+        return x
+    }else{
+        return y
+    }
 }
 
 fun main() {
