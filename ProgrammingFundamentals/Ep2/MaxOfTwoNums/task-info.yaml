@@ -7,7 +7,7 @@ files:
         length: 60
         placeholder_text: TODO()
         initial_state:
-          length: 6
+          length: 60
           offset: 87
         initialized_from_dependency: false
         encrypted_possible_answer: 5TOOM1OpXX/+xGRkWyVHZz/VgQ9LhQgu8FP2XEZfPACinNlrJHit/++z9IXW8JDrX5wh5ZKr5zJVJB8j3bjrg69P2KYP14nFBPDsLHn1RYo=
