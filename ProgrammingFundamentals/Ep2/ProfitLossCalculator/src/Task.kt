@@ -1,4 +1,5 @@
 import com.faangx.ktp.basics.ProfitLossCalculatorMiniApp
+import kotlin.math.roundToInt
 
 fun getSp1(cp: Int, pl: Int): Int {
     return cp*(100+pl)/100
