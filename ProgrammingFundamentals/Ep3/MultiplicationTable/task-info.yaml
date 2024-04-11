@@ -4,7 +4,7 @@ files:
     visible: true
     placeholders:
       - offset: 88
-        length: 6
+        length: 67
         placeholder_text: TODO()
         initial_state:
           length: 6
@@ -13,6 +13,7 @@ files:
         encrypted_possible_answer: dDroqK5/AfJdNz0YaypvH3GoQDHUzgnf0O0wSgjdtk6szfRIZ8L7mwGKZv2GpQeGqpEia//EWRYZTbSjCJbX8gecYtNaiM4qsgCxUha0JwI=
         selected: false
         status: Unchecked
+        is_visible: false
     encrypted_text: 7MBEVo9g9k8GnP4uM05Yrp+9P0KUpdSUl3Mkd1YrX1XsoThxnmxwXrcjFIZePN//MjB56wxJ6uQ8wKzV2m58NESAtK0sNinOGKzco2nwEfboYIZ99AjAmyPRY8SvA7/dz0Xcqr8vky/zYFDXjgK+wl+mncQF9EJdg1TOpTjmSHt6bTLniodapiELtpWMhlV8XEdoDHck8J5gmjvA7YpwEg==
     learner_created: false
   - name: test/Tests.kt
