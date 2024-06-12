@@ -4,7 +4,7 @@ files:
     visible: true
     placeholders:
       - offset: 128
-        length: 6
+        length: 22
         placeholder_text: TODO()
         initial_state:
           length: 6
@@ -12,9 +12,10 @@ files:
         initialized_from_dependency: false
         encrypted_possible_answer: A94HHC5GufoqLSYznhOXBnqm4o+12SG9ClTy2QNY3jU=
         selected: false
-        status: Unchecked
-      - offset: 241
-        length: 28
+        status: Solved
+        is_visible: false
+      - offset: 257
+        length: 53
         placeholder_text: return sp * 100 / (100 + pl)
         initial_state:
           length: 28
@@ -22,9 +23,10 @@ files:
         initialized_from_dependency: false
         encrypted_possible_answer: PLSlppYtZZWm4Jl/757a5CBpqGzjT1nNOhdbgf9s3DCCGY2tt3dZToE76q0pXMb5
         selected: false
-        status: Unchecked
-      - offset: 376
-        length: 27
+        status: Solved
+        is_visible: false
+      - offset: 417
+        length: 52
         placeholder_text: return (sp - cp) / cp * 100
         initial_state:
           length: 27
@@ -32,9 +34,10 @@ files:
         initialized_from_dependency: false
         encrypted_possible_answer: chiuu/k00OrrrjhdFRWEIuiNlsStqftE9PvR3BV5LJqYLgigcK2AV2rGkO0MYZGZuwT52PQvOnzIBKhpVY8atw==
         selected: false
-        status: Unchecked
-      - offset: 449
-        length: 23
+        status: Solved
+        is_visible: false
+      - offset: 515
+        length: 48
         placeholder_text: return absPL / cp * 100
         initial_state:
           length: 23
@@ -42,9 +45,10 @@ files:
         initialized_from_dependency: false
         encrypted_possible_answer: 05czHJnKtfVynQ9VbJ1FChKPHcK+LDKc0uf4668bS7S8ZP0tELJFpMYhjks4uqpRyb7/P/PrV1+jqWGhhhLsjA==
         selected: false
-        status: Unchecked
-      - offset: 518
-        length: 33
+        status: Solved
+        is_visible: false
+      - offset: 609
+        length: 58
         placeholder_text: return absPL / (sp - absPL) * 100
         initial_state:
           length: 33
@@ -52,12 +56,16 @@ files:
         initialized_from_dependency: false
         encrypted_possible_answer: 05czHJnKtfVynQ9VbJ1FCtID3OnYZ/IG5DI5SeNqfyHTQO4YSF7Tvzzo7pz8t+T6mHsgtEIWEWNdYn1D86K7OQ==
         selected: false
-        status: Unchecked
+        status: Solved
+        is_visible: false
     encrypted_text: 7MBEVo9g9k8GnP4uM05Yrpn8ED7fxGuD+13Rrs7nFFM7/gor3iIvyUyhhUGeZRYjBKQ6fTb4cFwWarE1jmFhDDEKtjnKmsAfRz1nnNkWGng14UhLGQca/ECbEB7DY5AJVBVlFZLYK1FkWMLV6xA0brDFlWk0tibixEaF5UcF0IyB4vA0qccaCjJJ1nwXiJRxEW9MNiIaK3JRZ7AIXoE1NsZ1wlkOJQ3gsrNHlxl1/rToI8Xzt8NRhkS5pf33CAvLd0LXxhr1saPp2Czjrf9CLSerBXimZRz8xHKkxLc37GiZaN2r82W7TbXnCHH7D2xcDU6mbG7KEJ3maVemih794tOj6ElvGXKplkJ+ZOgwvWrNRsWy7P6m3PCN4obi/umsjSTmbta26vgP+EQdePwY3cCwh4MzFvZdzXmtbVv2eRhsgxTm8QF6shvkMJVCsGsDBCnbwAE75/sAoO6oA01DrBf6dE7kU2dgIlq3/7fzO1NjWGFzXk+VBh8SXv5k3n6ZLBdgySc2NAsAEqyLki5nAccQeA/P2rGdMljUz5+K64O71TWiWvzPsZ2ttrJ4vX1IJg3E+F+q5h+n68iFGlZGY5ZRZAl6n3rfN+0kbw6Hu/UxzCjnOTClWeU9gFOsFnKXmCcrlfeZVr1ysy8V3fsGYahwpJO0a78qpiwZhbF/pj+oqwqn0pWjFpX7tUwC/9EZsBmeJK1fZ2Ozx02LWBvIyp04rHEydlrROmvm0AYNAz4TnEKH1MHbja8rqQPHIlTOVyD5P0F1Ok3zHEDMumeJvuUPC0LfDgeENsuj0sJ2spMfXHzU39gXnZXG/DBenBPpaKXl6bSTw1APgfZPWNqdzgPIar5V7lo8awmlJijCAcs/N6lrlFX1qk5C6TwdmLDxBRPgorK3H0i9k1DlVXPUrpL4QpOGRT94lHPSjBXAI46oBzfOSdk/al5ANGiAxaTz8Q6xZUEu+Oww17kX7PrygtA7EK4vDYgMb2/ZxR2HtlnyCFzf9IRi9JgG1NCeDV0g1dnAxWCbI274t0hIKdVMxAHVfuL3zyTb/hovUp7J/NjSUe9EeqFOp5DzbiMsOKzY+029XKu6tMRGIP/j1HF4RasZoYlmpXH37ZNY1DqReUKAKvdn5gmzjDceGswGl/V+0HB/0C6ND0Il+OVTOJnzuQFFk8vVxkMfFPXG9g/NZQ3trhg7rzZseHxTiG2PH3auhjpJUZH6JYM9tw2nxb6Aj7UkvHu8jvSSh6jRILBzZ+dp8zrLR+mUpWn1JWQ6Motkr8Q9bxxTEz9sR/wsbOEZ1l5D2+AkOFpQiCTv+VYh2kLhhWLgzVIeXVRtBMTrJ9hV7X+lnE9nYTdNp1OwN1VrRwCUraVgCLd9w1OI5kt0eVAjhoUOvWmAsOTgEHwYSVspFuEooaIts/noahxc7ZzcLFwP5ufQVrfP/hXcd8xhANkQYqP+nyEknUhBRILBJWxR
     learner_created: false
   - name: test/Tests.kt
     visible: false
     encrypted_text: 7MBEVo9g9k8GnP4uM05YrlQXBrspJWo1Jziw+IAzVikLw079QXSDtm75waMwFDRzoV2qYHPFKWK/pj+JnnQJ7hpC81eStCceMXaY3zrT5dZp9gUAQt1ZV6BwjYc3gJPNK/pKTczAnYgGwCZK2bTmUCWqOVL8WC94TCj8VHO/aO57LMFcmpvpKDQpNP5LHYtqCFpaXO7UFIzzIZqqfTrX0Upt3wOSLOom29RfUHWHeO2hngpZTLcGudiOUcIDcdMnnkimwVmOVFpByFxOiHFam2EG4zm9JJkvABPyPqtuHq42PSpZet/iuM0HUVPXfecI709MWqqccSjtJvYs6Ik7kqslsYFrkmhRkHjNa+6WiWQoA3sHAcpagnKWXpZGL4WxwSZgO6FP4Bv9E4/sFpAozoEwYLffN5lAgTH5h02TKcEM69e1QTtAn0RvcWTaeHGZDPNzC3/9MPbYuFEVUlpQ5+jlfkRiESeJALv9YVnvr5Q5Efxlfogdg0LXYiZzjmLGPL5eWSSWnfwreacxSIjba5mA0j//4V6RWaC86w7y5M2l/23Zf/Zxg7kyzvmgZtK5rs9B7+ugoKI7LWcK+IO9OvgpEoyKt9avvY8Y8l4WT4P5ol3jf07NptrS2k472Ops5XMvFcHNjeco09c1j0wC2LzGLi/GgOXmG1p+jX+rdf4xaPaAJWyP3yaNsObjyi2qppBA4E8PdH4oKdpDIhjPQ66phDlmapFkvgC4QzLjkzoTpqBHOctjf6qiESkQ4zgB2ZspPyRl1FM4vLs9PJh7hR5lw3+b6xKz0DzLXddrehIWfpgMOuzYNS/+mn8biOwDrXJYlgW0tyHZI5hF4g1sPgh358ey1orEz9ucEhAi7f+m1faUAiGK9j2fLZgY++SRCGWbDRRjcwfkzx9I4Y3LJJlkX7RywZGk6owPpdZYlYMd4zcVJuO5jEODOL3GDatSRXK9twZ+4S4vpi+wsGhWp13ur3wwu0rbm6HP1PMVnHFLg/E7wuU7Dz+Ge7oR2j1WK10NmD23AXnw4+b4jGBaJ0E/qDbtg9w4sW0dAJgj97SwzlYxzdJI8PCexhvqvznuMCyKnUQvz6ZZ/wBYQoTSS/+EWxF1YSq+EbBYlaliyriXlbfA783Kg+plxxLdmUcv
     learner_created: false
-status: Unchecked
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Wed, 12 Jun 2024 05:55:27 UTC"
 record: -1

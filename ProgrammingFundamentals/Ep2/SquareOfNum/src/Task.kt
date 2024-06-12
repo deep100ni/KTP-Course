@@ -1,7 +1,7 @@
 import com.faangx.ktp.basics.SquareOfNumV1MiniApp
 
 fun square(x: Long): Long {
-    TODO()
+    return x*x
 }
 
 fun main() {

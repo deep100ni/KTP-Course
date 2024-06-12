@@ -1,7 +1,7 @@
 import com.faangx.ktp.basics.SimpleInterestCalculatorV1MiniApp
 
 fun getInterest(p: Float, r: Float, t: Float): Float {
-    TODO()
+    return p*r*t/100
 }
 
 fun main() {
