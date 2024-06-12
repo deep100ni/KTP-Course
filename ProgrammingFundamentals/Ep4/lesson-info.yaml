@@ -1,1 +1,9 @@
-{ }
+content:
+  - Spiral
+  - LCM-HCF
+  - NumberPalindrome
+  - ArmstrongNumbers
+  - StringPalindrome
+  - CeaserCipher
+  - StringStatsCalculator
+  - StringCaseConvertor

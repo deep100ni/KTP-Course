@@ -1,0 +1,23 @@
+type: edu
+files:
+  - name: src/Task.kt
+    visible: true
+    placeholders:
+      - offset: 136
+        length: 6
+        placeholder_text: TODO()
+        initial_state:
+          length: 6
+          offset: 136
+        initialized_from_dependency: false
+        encrypted_possible_answer: Oq9UZuR4foKNJ/hXjURwVxS8DEK6DxkPkMkeDLobyP8hZa+VbwXsUU5MfWJer15UE1tAnSDRh5GsyJE6J/afTbczrQo/UwtURx0DFxSuooDIpGNV/re/76MDvW5sAW9MT6bxAF/d3Buw8zjO3x0s43cAs4pYEL6cK9SS8Aw6bRYqeMxFvp/EbcyfTzZVEkjqtkkJD5CfJnuKZ8Ln5YTiy3PSpbX7NoluvwiMzkoc7o9RoCXCRruJqDlDUtQLtr1wnaJJy0TvGVPRCSIHyXsNQ6vEqlhymWf/tjCM33Ps5JDXuO07PSfO4rtR1Nj5JRIvbtTke2R5O244e6LiyeA5Qs+kWi/M68Bdvgzf3h8TY2FReqAX9Zl/9UX/5Ga0VNxE60Wey5/aBdU3LgUrUgBLOhDefryLiwiXXrzTmXvdsyU=
+        selected: false
+        status: Unchecked
+    encrypted_text: 7MBEVo9g9k8GnP4uM05YruKfNB9kTwbh8ExRFzUgJTIEwwV+QUncgPvZBrLAhb4kLxwi8GXnzUK2/OcZZO/DFfkyAmdZZPOaQz++mEg9ESkyOGQSmoA74SLlJMTVbEE9GN5G/O65LemEPfexuk/mEmrq+jOq5ju0BRJe/7Mdms6LGgUr5Xma6dy3TT0DYGvan/27nLF+/Tu14oeqXRy3D2HpmIzKI18XttD6BfyJcimotflWytGlZVmu0LW2+3PCmJyoyquWpgcI144K24piq7cjZRosmhGb1sfLfyCYQ9E=
+    learner_created: false
+  - name: test/Tests.kt
+    visible: false
+    encrypted_text: 7MBEVo9g9k8GnP4uM05YrmKAZosRfA/N976BQJc8V9y0X5LCwYHi1XbT+nLncL2/nX8UwyNahnAwTRo6fS71reEHaPTeci2urOXSy23QmJn1jsCbcxDyFkWVCgMIZ3okb5eD2JajTn/V8tpLpQoFkUscsgNItLj0Rw1Qo5Z0XC+QeKaeu1biNDmB1swmEAPMn6bxj3rLfrye2M/aT3clCk2IJAaBlIi5wyU/oz0dXOsXJDfVQYT6ttW02EUmWG9vYgl+U7X2hkWWSF7NkhMU0CB6coq0MPcwsjF84VoOuzrxFk5kFju37Uirr3nZfSTNYyfZMdO3hdaq+EjBRCHivj767A1VredwGLKwqt4EgEDOIQty5mLmRTCz4zna4FOgkQ8X785hO1x9h+PVICkA8/RhkMqXBIgFzv+2ngvp6IsWrAjrZqift15AVDsmlOdQ/+sqDXZs4I6rLz+3UmoTqjl5abySRUsodNhf5fLwzXqbcFLIhDdyKT592iPlbc/YCNxsUhOjlvmBSHw4khh/1OctQrsR8TQlzMiEbccVCIKR1Hity5es235pSuzZWeN9/o6nSkhq9D/njarfDie2MnKqgNE1jQhlg7xxOZPQj/hR8w9M3gqe0QP8fPj7Eq2PhRptYDB2lUSDFzncNOXm+sCGWckPiExYX/sCMIGoBblzi33swW4a9nvUYWVv2mssJrt0VxLL8LqSnzvZKBEvV0aWjzLFjGe2Y1jnj0CecR8g2L7yMHEVg1lX+VulpBYlMPzmgmkf2KmQxfmNwd1hvA==
+    learner_created: false
+status: Unchecked
+record: -1

@@ -1,9 +1,9 @@
-import com.faangx.ktp.basics.SquareOfNumMiniAppV1
+import com.faangx.ktp.basics.SquareOfNumV1MiniApp
 
 fun square(x: Long): Long {
-    return x*x
+    TODO()
 }
 
 fun main() {
-    SquareOfNumMiniAppV1(::square)
+    SquareOfNumV1MiniApp(::square)
 }

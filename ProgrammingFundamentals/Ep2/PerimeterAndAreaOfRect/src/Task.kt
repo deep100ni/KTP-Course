@@ -1,11 +1,11 @@
 import com.faangx.ktp.basics.PerimeterAndAreaOfRectMiniApp
 
 fun getPerimeterOfRectangle(l: Int, b: Int): Int {
-    return 2*(l+b)
+    TODO()
 }
 
 fun getAreaOfRectangle(l: Int, b: Int): Int {
-    return l*b
+    TODO()
 }
 
 fun main() {

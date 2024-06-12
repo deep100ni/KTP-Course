@@ -1,18 +1,18 @@
-import com.faangx.ktp.ext.BinomialExpansionMiniApp
+import com.faangx.ktp.basics.BinomialExpansionMiniApp
 
 fun printBinomialExpansion(n: Int) {
     TODO()
 }
 
-fun factorialOf(x: Int): Int {
+fun factorialOf(x: Long): Long {
     TODO()
 }
 
-fun permutationsOf(n: Int, r: Int): Int {
+fun permutationsOf(n: Long, r: Long): Long {
     TODO()
 }
 
-fun combinationsOf(n: Int, r: Int): Int {
+fun combinationsOf(n: Long, r: Long): Long {
     TODO()
 }
 

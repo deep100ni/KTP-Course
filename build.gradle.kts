@@ -62,11 +62,13 @@ configure(subprojects) {
         // By default, only the core module is included
         implementation("org.jetbrains.academy.test.system:core:2.0.5")
         testImplementation("junit:junit:4.13.2")
+        implementation("junit:junit:4.13.2")
 
         val junitJupiterVersion = "5.9.0"
         implementation("org.junit.jupiter:junit-jupiter-api:$junitJupiterVersion")
         runtimeOnly("org.junit.jupiter:junit-jupiter-engine:$junitJupiterVersion")
         implementation("org.junit.jupiter:junit-jupiter-params:$junitJupiterVersion")
+        implementation("org.junit.platform:junit-platform-launcher:1.10.2")
         runtimeOnly("org.junit.platform:junit-platform-console:1.9.0")
 
         val detektVersion = "1.22.0"
@@ -129,7 +131,7 @@ configure(subprojects) {
     dependencies {
         implementation(compose.desktop.currentOs)
         implementation("org.jetbrains.compose.material3:material3-desktop:1.6.0")
-        implementation("com.github.LavishSwarnkar:faangX-KTP-Apps:1.15")
+        implementation("com.github.LavishSwarnkar:faangX-KTP-Apps:1.51")
     }
 
     java {
