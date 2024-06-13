@@ -4,7 +4,7 @@ files:
     visible: true
     placeholders:
       - offset: 88
-        length: 6
+        length: 73
         placeholder_text: TODO()
         initial_state:
           length: 6
@@ -12,12 +12,37 @@ files:
         initialized_from_dependency: false
         encrypted_possible_answer: dDroqK5/AfJdNz0YaypvH3GoQDHUzgnf0O0wSgjdtk6szfRIZ8L7mwGKZv2GpQeGqpEia//EWRYZTbSjCJbX8gecYtNaiM4qsgCxUha0JwI=
         selected: false
-        status: Unchecked
+        status: Failed
+        is_visible: false
     encrypted_text: 7MBEVo9g9k8GnP4uM05Yrp+9P0KUpdSUl3Mkd1YrX1XsoThxnmxwXrcjFIZePN//MjB56wxJ6uQ8wKzV2m58NESAtK0sNinOGKzco2nwEfboYIZ99AjAmyPRY8SvA7/dz0Xcqr8vky/zYFDXjgK+wl+mncQF9EJdg1TOpTjmSHt6bTLniodapiELtpWMhlV8XEdoDHck8J5gmjvA7YpwEg==
     learner_created: false
   - name: test/Tests.kt
     visible: false
     encrypted_text: 7MBEVo9g9k8GnP4uM05YrnwPraVO/doRw/KOuZT/dmYmoFdb+43FE4Kc0oSYaVAmNS//J4D2gt3X3XbE9wNEzVlGSB0+ORCCpmHyhkykK8J0VZT8OURz5OgoEFuTvYg/Q+LKXMRffDzkOCZeXCROvREkX5bGZwgavZtLVeGvlW62aNo5TgwYFXLbbNwPqUi5RkncYOCW3ItTjdbM+oQ6NTDiNVbcax4IPd1GBnlGOtVZnHUifvbwa45w65TNcmSQR9/oKIrxJSVTGkfv69SH3V0f51rcfc+p6XqVKdGPOz1FUD/JIRMog4182qRoRTJIuMJg/b5CEdKtHg+4RWcdidhWaWoehNw3uI7v1qY9bZqM4eqHgHivYemtdPYgZbLnnVHGGgi5JJMpP86PVPRTg7momdprHq0J8aWs5BTEM3OrKgOrEuW78kDU8MedxTNX172iuSbbN+YGUYymuAvvrC1FxI7VV9rNOpP0BqA9Ir4JETMtl+iTZd3HN2y9gRA6qXP6TfHNlRiMBUnRAJJ4sfE+ATjWQtFEl477/Wje59vIDx/DWLFSYHeTUZqkw+GoqpA4B/0UAl+dJFFek2z4zcBeqckFXfitfHWxafyr8hNwMUrVx85wQVDwQJ8DeRh+lXerPsbKpOk+/Q0kKkW2uDn1ObLZ/xp2z7K6jWrLJRWMND6R31So5lQDwLiKIvnNtTL2MlyxElCTm+VP9xpbvmdnE/kaMe3E4vimMoBjWqaZq2UCbJUvk51Lr/i3LEhA2yvi/s7xlrmz5e5dZTPztIBilkIfh2ci7vdRHezo0MHboh/UR58vP9U2fM5ilorbsQZoEx2r/Io680D+96+weT0iFi2UZdqdbeGT8fNh0os=
     learner_created: false
-status: Unchecked
+status: Failed
+feedback:
+  message: |-
+    Wrong table (46 X 1 = 46
+    46 X 2 = 92
+    46 X 3 = 138
+    46 X 4 = 184
+    46 X 5 = 230
+    46 X 6 = 276
+    46 X 7 = 322
+    46 X 8 = 368
+    46 X 9 = 414
+    46 X 10 = 460
+    ) printed for 46, expected (46 X 1 = 46
+    46 X 2 = 92
+    46 X 3 = 138
+    46 X 4 = 184
+    46 X 5 = 230
+    46 X 6 = 276
+    46 X 7 = 322
+    46 X 8 = 368
+    46 X 9 = 414
+    46 X 10 = 460
+    )
+  time: "Wed, 12 Jun 2024 11:47:37 UTC"
 record: -1

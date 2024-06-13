@@ -4,7 +4,7 @@ files:
     visible: true
     placeholders:
       - offset: 112
-        length: 6
+        length: 70
         placeholder_text: TODO()
         initial_state:
           length: 6
@@ -12,12 +12,39 @@ files:
         initialized_from_dependency: false
         encrypted_possible_answer: eq6GGM27NYdj+u0t30gVYETSbVKH+2pjH3j8Q+OZep7+pfGf71XdJb70NKq8Eztso2VT9dw63SfMXI/oXlYU0O1DSmG0JpD6GN4KziV8bhE=
         selected: false
-        status: Unchecked
+        status: Failed
+        is_visible: false
     encrypted_text: 7MBEVo9g9k8GnP4uM05Yrp+9P0KUpdSUl3Mkd1YrX1XsoThxnmxwXrcjFIZePN//bXPJGj86/LbQT7AidXwt6mcXRKfFOT91Y1dgPnT2G/OohKnaKCB1PSNtcA0aMmDKR33WyZ8PxUBlaBCX3whf06YfzclGx/tfcATEpSeya8JGqm5p8me1G3uzRqkzJdVM7lWwBEPvAgqg5JMlUd9H1romsjheunWYEKyqvSy1ydG5tBx80ZDtkmOxXMOjeTZR
     learner_created: false
   - name: test/Tests.kt
     visible: false
     encrypted_text: 7MBEVo9g9k8GnP4uM05YrnwPraVO/doRw/KOuZT/dmZi9Jbn60XaF6T40oXXPqDFwsp07DOgacZWdK8uHc8GdciVuQ8YADrHwBBYvQ+GqtyG2Tjjk4kJQhD5ib4NkVllSOw45/6iVKewk5hrfKEKYswxvYajez2XYvHmkH8RpCT/RTJIAsHcrF0V4FvVcUDnk5RsIn9eEobPsIQUhWWXsfQHqMIYNKmGSD6mdZvhnQm6eQJIbWvkqC5HDNtQ2q5UPnRpJJNXhRRV/XBCROBnAEhOQ92nN0GIGSh6qA3Y1XVxaGut7C6FxmKGAA7scU+yJRi/pbiIrORzpVJFrfUGTkPHVVXGe5KO8JZr1FJY7FcEuVatVHhw0SopiiD/qmydT/+9f2HowWLhQDJzXoX/NkFB4mvikk8SQ31pS/Dxp0M3+lFqMtCOiWGpcJjOPen4j05Z9Kkz/gCydJuem/AFq9SepAiEkCUZLpUYGYSSyBrPH7BqZmE9DhokgWXg5uOmYKVu8K5IWU82pugDO6u3AhW+xWZA9iBfiTIyL+OZ+Mz8ZL11mFqJmdBrzoXZ4Lwu69ZonOSSSIvwRMBlJfzDnC0ZbEvPYVN0SgHzIGjohGJOOBOXgkvaJN9aSQvuqdSXWuj0eQarooSI6BYyGActwC/x+wQ+KXnwYaNS9cRINXAJKUFijWAYGlFqAHK7OqK+bVXMXeRmYRGx8ZGrxfQrVSrdtlajlSIfD65b0hJVVjUA9gLvndEH1WjTuPoppkacQeumalFES572K5PgeWI0YlkUG2I4y/SVWRMSkeMJNmF+FoHOAyQUhI2X8mrQdk029DxxCbPEpqOY8vOoFzNI/kw4n0xA4GFB7M4doPekXCM=
     learner_created: false
-status: Unchecked
+status: Failed
+feedback:
+  message: |-
+    Wrong table (55 X 50 = 2750
+    55 X 51 = 2805
+    55 X 52 = 2860
+    55 X 53 = 2915
+    55 X 54 = 2970
+    55 X 55 = 3025
+    55 X 56 = 3080
+    55 X 57 = 3135
+    55 X 58 = 3190
+    55 X 59 = 3245
+    55 X 60 = 3300
+    ) printed for 55, expected (55 X 50 = 2750
+    55 X 51 = 2805
+    55 X 52 = 2860
+    55 X 53 = 2915
+    55 X 54 = 2970
+    55 X 55 = 3025
+    55 X 56 = 3080
+    55 X 57 = 3135
+    55 X 58 = 3190
+    55 X 59 = 3245
+    55 X 60 = 3300
+    )
+  time: "Wed, 12 Jun 2024 11:54:39 UTC"
 record: -1
