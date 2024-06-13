@@ -4,7 +4,7 @@ files:
     visible: true
     placeholders:
       - offset: 136
-        length: 6
+        length: 174
         placeholder_text: TODO()
         initial_state:
           length: 6
@@ -12,12 +12,16 @@ files:
         initialized_from_dependency: false
         encrypted_possible_answer: qTmjfckzpEt9QELTstfvCXL7zi9wow+kmsA9BoqepQYraHxAG54uz4WRo74BXFLxHiXrzVWp33hazlMm12h7fgFghXLM4Hjmx7lMSJ7PXO66a6730tsUaIiBdd+WVWrjg1tI6qAf2dJIo3Mw4uWQ7lprOAqPKfwaEfqb37HBuDsrW0KFcd74RHbPFySMF8GOEes/vsyNaN4RnVoy63ks4Am3qQXNqgWVk8/hzNmbbMU=
         selected: false
-        status: Unchecked
+        status: Solved
+        is_visible: false
     encrypted_text: 7MBEVo9g9k8GnP4uM05YruKfNB9kTwbh8ExRFzUgJTIEwwV+QUncgPvZBrLAhb4kLxwi8GXnzUK2/OcZZO/DFfkyAmdZZPOaQz++mEg9ESkyOGQSmoA74SLlJMTVbEE9GN5G/O65LemEPfexuk/mEmrq+jOq5ju0BRJe/7Mdms6LGgUr5Xma6dy3TT0DYGvan/27nLF+/Tu14oeqXRy3D2HpmIzKI18XttD6BfyJcimotflWytGlZVmu0LW2+3PCXroVywerE2wBdwVAXBq0YgXDUII/v2LO7krrayVpgB0=
     learner_created: false
   - name: test/Tests.kt
     visible: false
     encrypted_text: 7MBEVo9g9k8GnP4uM05YrmKAZosRfA/N976BQJc8V9y0X5LCwYHi1XbT+nLncL2/nX8UwyNahnAwTRo6fS71reEHaPTeci2urOXSy23QmJn1jsCbcxDyFkWVCgMIZ3okb5eD2JajTn/V8tpLpQoFka5nVhAFZMCNEjnTKFU5H3l9QO1+7GIvmjGm+UhyYSs0/IgPznjXVG61Zg/ipckBZJwTEXk9RnUf62X576jzTLhNuQf6hFSKwPYqaormi2uqxDR+pXMObI0PXwfFaHjKcpNE+B+J9pZ2BkwY1JZdfydVRn9wyhYZ4Du9IEbz/EG6bZxYTD7sDuFwgbPgLWOk4wrlsESkIiyy0FmCX6+sl0hRbX6wE08tJ9qSAywDbAWWnNPJSzkBNK26O6oJuK08LbOWCx8nuQWlmPIp/YiU1lvPAPH90s+IkrTkAlXDY94OefRCGVpqhBzrwGajhIeja+TdNU6fb5fBJp9gDmbNkqgrJaaV0preTgZuRkVBzkBplgFWJWjKb3DBq7EbX/F9hHC1MpQMUC/TYWHeuD6hIw+TFHUEFqqEagWTq8FwJt+Hm2OOjBaTco3yhKBKyK9La0yodRhPuteeD8BPl98szEeMEZ/ucnee9n1EgiiDIvXKGX9zYspcxxdmEDQIunDOn0pK36WBhoLqcOSH51ZJXdCYWuzb5jpaYjPmn0iwUwFF+pYMCmNtvnqweaX+EPcegbhS1sCktmNgvJFSP1bBW3wjszgVSakgUXhyPA0J7B/MhoKQxTzL+CSJ9CfxLLK46oftwOpMXvO/N/xPwsvF7fW2GKyDWZkACQ+64xIZt3rSFCNTxogpnO+QkZTHWeykx9QhmXTvfa3EL1G3d68Irts=
     learner_created: false
-status: Unchecked
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Thu, 13 Jun 2024 11:49:38 UTC"
 record: -1

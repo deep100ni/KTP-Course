@@ -4,7 +4,7 @@ files:
     visible: true
     placeholders:
       - offset: 136
-        length: 6
+        length: 210
         placeholder_text: TODO()
         initial_state:
           length: 6
@@ -12,12 +12,16 @@ files:
         initialized_from_dependency: false
         encrypted_possible_answer: qTmjfckzpEt9QELTstfvCXL7zi9wow+kmsA9BoqepQYYf/43HcoZaeeU+3O/PQvhUnL/FkClUTQszcdswW2kq1FACiNCPsddVoQyWnLrTAMI5qBEiEXGuj6kh34M/6dv28/SW4/kycus0svTcHH/ECp/xeDPSCzn4h99DalE7QQGH4k/9b53hP950qRE6K0l29VqdMrCF3unrugO8SzHptoFMSjjXloOWxeZTC7C0H3qNELFirlI6WKiiDGjMHFXc6nF627uAST/ke29DkrUog==
         selected: false
-        status: Unchecked
+        status: Solved
+        is_visible: false
     encrypted_text: 7MBEVo9g9k8GnP4uM05YruKfNB9kTwbh8ExRFzUgJTIEwwV+QUncgPvZBrLAhb4kLxwi8GXnzUK2/OcZZO/DFfkyAmdZZPOaQz++mEg9ESkyOGQSmoA74SLlJMTVbEE9GN5G/O65LemEPfexuk/mEmrq+jOq5ju0BRJe/7Mdms6LGgUr5Xma6dy3TT0DYGvan/27nLF+/Tu14oeqXRy3D2HpmIzKI18XttD6BfyJcimotflWytGlZVmu0LW2+3PCE48H2k453uypevbsCwt0pDxD4iEgwGPp+EN3Ibn7kb8=
     learner_created: false
   - name: test/Tests.kt
     visible: false
     encrypted_text: 7MBEVo9g9k8GnP4uM05YrmKAZosRfA/N976BQJc8V9y0X5LCwYHi1XbT+nLncL2/nX8UwyNahnAwTRo6fS71reEHaPTeci2urOXSy23QmJn1jsCbcxDyFkWVCgMIZ3okb5eD2JajTn/V8tpLpQoFkc1tOwrkRcbGkpF/Z9PWimlYM70/IQE8id1fCNvjSW6VibFwZ4TAVw21juiulN2epva5qZmm9jxRWRv9A12XWQXGfR/QFNbGOsYc9RgdJ7Asa6BPHX5SWmGCHMHI65MA55JUmu1s9+58YROOV8YhR89S/yvpg60aJLE26zX04GpC3jmuWFb/p+ZZD0Y8V+yWFrwY1DfFf/8Q/owe0ExXbkUI0J59na2p5GLvtck6RYF+cPn0WTe9koiMke6mb2pQUzzVJ0k8uKcwTfVz7DtTVGFvTAejc6I9rkwr8BV9lwYNhwt6sHkUw00W6CIEwJwUN0GEWJ4lRsU0zJoRkMHzH7C+f6OF42KaHP+M/1YViuocNhDa984fTUAWAtZingebVMKhpjGH4nZGg2dPcx0ZcJUXiKp1Bywha8aH+J4rS0QSlEjY8kMQl+6afGClSoa1xpVGlFY7kvQHj7Xw5Abo+04vY75yCuHl8KA5nDHyUr09/aTrsK9xwMWhkaIVIybh6cOGeLKQFlxJzihLsZkvcA4usFidu1p1tQKLdvqtD0SRgf5snY//3eMZB8p4Az/hWHhCMs8NKlsjfbjmC22oOvtaCgEWVZUh7/RPpUWypmm+zT8LpZKUeetiiqdgcd59Yg==
     learner_created: false
-status: Unchecked
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Thu, 13 Jun 2024 12:25:32 UTC"
 record: -1
