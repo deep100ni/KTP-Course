@@ -5,9 +5,9 @@ fun printBinomialExpansion(n: Int) {
 		if (combinationsOf(n, i) != 1) print(combinationsOf(n, i))
 		var powA = n - i
 		var powB = i
-		if (powA > 1) print("a^$powA") else if (powA > 0) print("a")
-		if (powB > 1) print("b^$powB") else if (powB > 0) print("b")
-		if (i < n) print("+")
+		if (powA > 1) print("a^$powA ") else if (powA > 0) print("a")
+		if (powB > 1) print("b^$powB ") else if (powB > 0) print("b")
+		if (i < n) print(" + ")
 	}
 }
 
