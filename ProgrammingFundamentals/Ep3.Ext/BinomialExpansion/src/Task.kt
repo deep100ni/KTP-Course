@@ -9,6 +9,7 @@ fun printBinomialExpansion(n: Int) {
 		if (powB > 1) print("b^$powB") else if (powB > 0) print("b")
 		if (i < n) print(" + ")
 	}
+	println()
 }
 
 fun factorialOf(x: Int): Int {
