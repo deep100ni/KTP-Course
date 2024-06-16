@@ -14,6 +14,7 @@ fun isPalindrome(str: String, ignoreCase: Boolean): Boolean {
 
 fun areStringsEqual(s1: String, s2: String, ignoreCase: Boolean): Boolean {
 	if (s1.length != s2.length) return false
+	if (s1.length == 0 && s2.length == 0) return false
 
 	for (i in s1.indices) {
 		if (!areCharsEqual(s1[i], s2[i], ignoreCase)) return false
