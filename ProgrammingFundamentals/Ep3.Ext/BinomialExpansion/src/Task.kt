@@ -1,10 +1,10 @@
 import com.faangx.ktp.basics.BinomialExpansionMiniApp
 
-fun printBinomialExpansion(n: Long) {
-	repeat(n + 1L) { i ->
-		if (combinationsOf(n, i) != 1L) print(combinationsOf(n, i))
-		var powA = n - i
-		var powB = i
+fun printBinomialExpansion(n: Int) {
+	repeat((n + 1)) { i ->
+		if (combinationsOf(n, i) != 1) print(combinationsOf(n, i))
+		var powA = (n - i)
+		var powB = i.toLong()
 		if (powA > 1) print("a^$powA") else if (powA > 0) print("a")
 		if (powB > 1) print("b^$powB") else if (powB > 0) print("b")
 		if (i < n) print(" + ")
