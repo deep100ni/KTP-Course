@@ -9,7 +9,7 @@ fun convertToSentenceCase(text: String): String {
 				if (char != ' ') append(' ')
 				requireSpace = false
 			}
-			if (capitalize) {
+			if (isAlphabet(char) && capitalize) {
 				append(convertToUppercase(char))
 				capitalize = false
 			} else {
