@@ -63,7 +63,7 @@ fun convertToSnakeCase(text: String): String {
 	return buildString {
 		for (char in text) {
 			if (underScore) {
-				if (char != ' ') append('_')
+				if (char == ' ') append('_')
 				underScore = false
 			}
 		}
