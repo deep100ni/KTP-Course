@@ -59,9 +59,13 @@ fun convertToLowercase(text: String): String {
 }
 
 fun convertToSnakeCase(text: String): String {
+	var underScore = false
 	return buildString {
 		for (char in text) {
-			if (char == ' ') append('_')
+			if (underScore) {
+				if (char == ' ') append('_')
+				underScore = false
+			}
 		}
 	}
 }
