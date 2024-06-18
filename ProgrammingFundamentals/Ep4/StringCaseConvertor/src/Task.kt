@@ -43,11 +43,15 @@ fun convertToTitleCase(text: String): String {
 }
 
 fun convertToUppercase(text: String): String {
-	return convertToUppercase(text)
+	return buildString {
+		convertToUppercase(text)
+	}
 }
 
 fun convertToLowercase(text: String): String {
-	return convertToLowercase(text)
+	return buildString {
+		convertToLowercase(text)
+	}
 }
 
 fun convertToSnakeCase(text: String): String {
@@ -63,7 +67,7 @@ fun convertToUppercase(char: Char): Char {
 		val upperChar = char - 32
 		(upperChar)
 	} else {
-		(char)
+		char
 	}
 }
 
@@ -72,7 +76,7 @@ fun convertToLowercase(char: Char): Char {
 		val lowerChar = char + 32
 		(lowerChar)
 	} else {
-		(char)
+		char
 	}
 }
 
