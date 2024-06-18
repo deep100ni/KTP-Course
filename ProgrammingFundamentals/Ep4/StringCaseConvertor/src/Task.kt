@@ -44,13 +44,17 @@ fun convertToTitleCase(text: String): String {
 
 fun convertToUppercase(text: String): String {
 	return buildString {
-		convertToUppercase(text)
+		for (char in text) {
+			append(convertToUppercase(char))
+		}
 	}
 }
 
 fun convertToLowercase(text: String): String {
 	return buildString {
-		convertToLowercase(text)
+		for (char in text) {
+			append(convertToLowercase(char))
+		}
 	}
 }
 
