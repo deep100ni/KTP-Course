@@ -1,13 +1,12 @@
-import com.faangx.ktp.patterns.single.PatternMiniApp
+import com.faangx.ktp.patterns.single.PatternLinesBasedMiniApp
 
 fun printPattern(lines: Int) {
-    repeat(lines){i->
-        repeat(lines-i){ print(lines-i) }
-        println()
+    repeat(lines){i ->
+        repeat(lines - i){ print(lines -i) }
+    println()
     }
-
 }
 
 fun main() {
-    PatternMiniApp("TLN", ::printPattern)
+    PatternLinesBasedMiniApp("TLN", ::printPattern)
 }

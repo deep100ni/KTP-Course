@@ -5,9 +5,8 @@ fun maxOf(x: Int, y: Int, z: Int): Int {
         return x
     }else if (y>x && y>z){
         return y
-    }else{
+    }else
         return z
-    }
 }
 
 fun main() {

@@ -1,0 +1,26 @@
+type: edu
+files:
+- name: src/Task.kt
+  visible: true
+  placeholders:
+  - offset: 93
+    length: 6
+    placeholder_text: TODO()
+    initial_state:
+      length: 6
+      offset: 93
+    initialized_from_dependency: false
+    encrypted_possible_answer: qMzB/fVgV3epAkBmpQAu654UKDYeQ37uMykLI/41qoqVM5BXAuPLP3/w2sj01Ba06DpJ8TT7Bqrops+7P3ox0YIsuZ6X1eewlhNsO+PIXchlDynugdiZ8PlonUPPHEnyzny2nCr+DsDUSKU0Ya4h9gSLrJEzg5qSlmdxqRIfzK+1QBOcjOkiAKgOfTY6BmwRgqpteYOmUba5dOyt36Vd3ShSqf/T5oOZBjW68v7LKhKBW2bioDdZ3DDBiaWPiK58HGKmVO+DOdlsui53ggJi8IeT5gexNkEzfQ2+cmdyszE=
+    selected: false
+    status: Unchecked
+  encrypted_text: 7MBEVo9g9k8GnP4uM05YroF+yRoh9/DreuzS0m5z5t85p1BpUo9v5euaRPiQOz5agmJIBPrvIR5F4PYHzRw/9clFSNRizuG1aOGpp/ZF7Vp0E/VDO6RMsZJkekA7wo7Zr+wxRLM+VQV2/02CTxTsGihXFYx2eObPvaABACvX6KWFw5c+r2NQo5s92XHt5BnrwqunrKdnKkOOFtUgMTAx3liZZAhC02XYP6tEmdFnuWGKLMb0+Tid8SPTqOAzmk4x
+  learner_created: false
+- name: test/Tests.kt
+  visible: false
+  encrypted_text: 7MBEVo9g9k8GnP4uM05YrpjlEfKNm6ygJPwgcrfGgexj5Q5a6ixUq6LTUFJMgN3nahKgxK97yz+YZ/oAvPBfVUDlaZtgx4uPi0lsOltwxILMjja+i1iFmDi7z1yxNq0zDECDkmp3Q1IeqH/+/mcxXDbSQSxzN0imMwd+UDbLoSAe7CR8gTVWQ+qAS5EaPk+X9KI6LPCq7BQ9yhWfD5UuAFbALRon2HlejEnyi4NZBNtEaHVKhLF93xhvfANUUK98hXn0NthRK0Ghtot0LpKpx7JC7u3T9qVR9Dkpp89k0IYlN3Enza+9isW8K8q6VFlv28szVCNK0HGxP97E8kHSr2dijIhRKjDu2CH0f35PYVIe21a/1dPHXybqwstk+s3SVBgxk65w0Qj8vZLmcqDhb9R6acYkvRS2r3UAtkqhBdXTJ0skU150N+S92nj4YKgTrETvf5VC4rbFXWRIMm+mym4MoTWTaWt8S4x4ygBizfwc6ysu17xkiUzfL0ndAh4iMF+mUZFv9lwdKuRV3t2dJBcBoEi4HStABgKxr79xEek236+t4eyMtJDGwZ00u8Vkn8BgGp7V2Bzy36U7irsD6Nyp6tlLDCz2h2RWd5XWfIKlqcjvBjutZHWuWqcKCYQ83J5wIFgxRbmZ6hrBL0TsOw==
+  learner_created: false
+status: Solved
+record: -1
+feedback:
+  message: Congratulations!
+  time: Sat, 15 Jun 2024 14:36:46 UTC

@@ -4,24 +4,45 @@ files:
     visible: true
     placeholders:
       - offset: 88
-        length: 67
+        length: 73
         placeholder_text: TODO()
         initial_state:
-          length: 67
+          length: 6
           offset: 88
         initialized_from_dependency: false
         encrypted_possible_answer: dDroqK5/AfJdNz0YaypvH3GoQDHUzgnf0O0wSgjdtk6szfRIZ8L7mwGKZv2GpQeGqpEia//EWRYZTbSjCJbX8gecYtNaiM4qsgCxUha0JwI=
         selected: false
-        status: Solved
+        status: Failed
         is_visible: false
     encrypted_text: 7MBEVo9g9k8GnP4uM05Yrp+9P0KUpdSUl3Mkd1YrX1XsoThxnmxwXrcjFIZePN//MjB56wxJ6uQ8wKzV2m58NESAtK0sNinOGKzco2nwEfboYIZ99AjAmyPRY8SvA7/dz0Xcqr8vky/zYFDXjgK+wl+mncQF9EJdg1TOpTjmSHt6bTLniodapiELtpWMhlV8XEdoDHck8J5gmjvA7YpwEg==
     learner_created: false
   - name: test/Tests.kt
     visible: false
-    encrypted_text: 7MBEVo9g9k8GnP4uM05Yrm1rk5WH4fGOcCXXPe5YsgW2r0DXsEW3arJXB8SG2QEpCqEnWxugkh3QsyMtdD45naaxNwYT+YRtVsLgxd/KYHzq9KBIpbEK2rZJ++kNXZiKGk7lzCt7aE0sVpG/NttutgedDFLbw9XJ2X7uSP66QQ4Gn0u1xKZ9YPRG4lC6k+wiMTNqkrxfWt1/9l6hK8yqzdPf0uwCKJztrcZOTovNrgQSIz3bn1v8oVrlRps+0kvwBBg9uFMPdyxgmi4suIrL6zCV2nMYyAT5kURsGQDRk7BhTuJ9h8fItWozkytm/jWsI8ukpjF4uM1eac2g7Fa15aMshQvphcy3N29wMRV2GAxz0rykoelUEVAxPzj2xM1Iqaoqt0f540wR9BIuxIA6hiW3UysFYYhHuqUbivAO4/2zINzwLCMBoIfXXqP/angXWaMScudn66IEHK19e/vljhWCUz8ZRNyif8hp+vKao7/HaNfmXL3ksoOFL8eP+j8DGwdwR5tJPhRSBHYvXc8jRm3vUDfAoDdPTIEDqiGhL38arK6xMykC2BtKLbeTlX/k76VEKqzeJfz/CIBWL4xtBIQYt6WpV/TibAovQTUIycwWaQio11HZ/ZdpC0NGaP2u8Zi6Sdr7f0P4tZW1SVGvje0sTUoim5SqJ5M6vlhwiGcDu4qQmqjlrolpQ6aXZAsLocVzBgFQQmWfjP2t8c9VMZk97WVTeqyjJvexHqjp8gbcv+6OcK19Fk/zNTbOrUDShUACnJtkPicD6+R+7QME5FAJJ+g1NM7OMY9DQwqWwnc7f85dn3xPfsmzXsNQCeOnGxaN1MXUJS0iyLKVHbBnYbBt0Qke5OLd8BcqM2iAMIr1Y4xybVbu6lmYUKw0tZMXq1yZ2EV96Gqxe502FSXcKpw7DE8wcE/3XZdtGS5AvBuAvJjwhaD3CknHCSeU++asjVmgZ6YD2CSN1sVihLZSFPtUxp5decAZ6roodXVW63A0kAout/nWJ18GnFCIn0NmMXEJwRDRi15Ikja5EBVwEEkYcmE0IViLtPpGHLkcPBOL1AgRTMp+j2ykEq70TBNb4/MfX48S/2o0jSVMki9Qj0P9cUUrDy9yYfpIj1aHcHevdISE1VesC3GEphmQCUcc7CW9NvyCpgCOY4BLLitN4NtTgB+VbROJFsNWa8rMvfgGZrcegqr96Vpi4gtXNfIjzavhPbbSCTKiYJxn5eVbxt8+ydk80aRUOtgtLo489WHHsTPMD9bjm6itBU5lihGvL1JHKrVm7zc5ndRI0YpvJG3xxzEaiH9qOvCE27xxk6FzZ/CgKn5AXPHrZfejgSTbGZLla72h5H070/HIVZ+Ky62dwsh21LsmKQBWWocseoWJ9cRS27pYKl72PKcFc14qls4EnnyplzvrQ6FwexOmPntubGnloROOIX2/qHPK35jNGqZvpLPY/TEq2aUDC3/OOnT0KWebfc3xHFn0uJlqD6QIpmuP+2ac/nfJhiaZso0=
+    encrypted_text: 7MBEVo9g9k8GnP4uM05YrnwPraVO/doRw/KOuZT/dmYmoFdb+43FE4Kc0oSYaVAmNS//J4D2gt3X3XbE9wNEzVlGSB0+ORCCpmHyhkykK8J0VZT8OURz5OgoEFuTvYg/Q+LKXMRffDzkOCZeXCROvREkX5bGZwgavZtLVeGvlW62aNo5TgwYFXLbbNwPqUi5RkncYOCW3ItTjdbM+oQ6NTDiNVbcax4IPd1GBnlGOtVZnHUifvbwa45w65TNcmSQR9/oKIrxJSVTGkfv69SH3V0f51rcfc+p6XqVKdGPOz1FUD/JIRMog4182qRoRTJIuMJg/b5CEdKtHg+4RWcdidhWaWoehNw3uI7v1qY9bZqM4eqHgHivYemtdPYgZbLnnVHGGgi5JJMpP86PVPRTg7momdprHq0J8aWs5BTEM3OrKgOrEuW78kDU8MedxTNX172iuSbbN+YGUYymuAvvrC1FxI7VV9rNOpP0BqA9Ir4JETMtl+iTZd3HN2y9gRA6qXP6TfHNlRiMBUnRAJJ4sfE+ATjWQtFEl477/Wje59vIDx/DWLFSYHeTUZqkw+GoqpA4B/0UAl+dJFFek2z4zcBeqckFXfitfHWxafyr8hNwMUrVx85wQVDwQJ8DeRh+lXerPsbKpOk+/Q0kKkW2uDn1ObLZ/xp2z7K6jWrLJRWMND6R31So5lQDwLiKIvnNtTL2MlyxElCTm+VP9xpbvmdnE/kaMe3E4vimMoBjWqaZq2UCbJUvk51Lr/i3LEhA2yvi/s7xlrmz5e5dZTPztIBilkIfh2ci7vdRHezo0MHboh/UR58vP9U2fM5ilorbsQZoEx2r/Io680D+96+weT0iFi2UZdqdbeGT8fNh0os=
     learner_created: false
-status: Solved
+status: Failed
 feedback:
-  message: Congratulations!
-  time: "Thu, 11 Apr 2024 09:08:42 UTC"
+  message: |-
+    Wrong table (46 X 1 = 46
+    46 X 2 = 92
+    46 X 3 = 138
+    46 X 4 = 184
+    46 X 5 = 230
+    46 X 6 = 276
+    46 X 7 = 322
+    46 X 8 = 368
+    46 X 9 = 414
+    46 X 10 = 460
+    ) printed for 46, expected (46 X 1 = 46
+    46 X 2 = 92
+    46 X 3 = 138
+    46 X 4 = 184
+    46 X 5 = 230
+    46 X 6 = 276
+    46 X 7 = 322
+    46 X 8 = 368
+    46 X 9 = 414
+    46 X 10 = 460
+    )
+  time: "Wed, 12 Jun 2024 11:47:37 UTC"
 record: -1

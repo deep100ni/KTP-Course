@@ -2,20 +2,21 @@ import com.faangx.ktp.basics.FactorCalculatorMiniApp
 
 fun printFactorsOf(num: Int) {
     for (i in 1..num){
-                if (num%i == 0) {
-                    print("$i, ")
+        if (num % i == 0){
+            print("$i, ")
         }
     }
 }
 
 fun isPrime(num: Int): Boolean {
-    var noOfFactors =0
+    var factor = 0
     for (i in 1..num){
-        if (num%i == 0) {
-            noOfFactors += 1
+        if (num % i == 0){
+            factor ++
         }
     }
-    return noOfFactors == 2
+    return factor ==2
+
 }
 
 fun main() {

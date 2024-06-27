@@ -9,7 +9,7 @@ fun getSp2(cp: Int, absPL: Int): Int {
 }
 
 fun getCp1(sp: Int, pl: Int): Int {
-    return sp * 100 / (100 + pl)
+    return (sp * 100 / (100 + pl).toFloat()).roundToInt()
 }
 fun getCp2(sp: Int, absPL: Int): Int {
     return sp - absPL

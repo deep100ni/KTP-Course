@@ -1,0 +1,36 @@
+type: edu
+files:
+- name: src/Task.kt
+  visible: true
+  placeholders:
+  - offset: 99
+    length: 6
+    placeholder_text: TODO()
+    initial_state:
+      length: 6
+      offset: 99
+    initialized_from_dependency: false
+    encrypted_possible_answer: ndUeOIYZrnAzRufKMOLidB5GhVABQYTb85oKiunxSjVR0xXL5iF1yk/AwI8JDy/cCLS4RORJ70ISr+2yjsKnoOk2URy4gk3RbtqrKpt1o3ULA0TDRKjTcIchdIMd9YALDolRTLgHEw82+Fyrf1RCvBzRjMf0G/YkoGx/ydL97JUc6C2SzpXSyDdfpRu63aSGmUn2OADHX270UkKR3kV0nw==
+    selected: false
+    status: Unchecked
+  - offset: 152
+    length: 6
+    placeholder_text: TODO()
+    initial_state:
+      length: 6
+      offset: 152
+    initialized_from_dependency: false
+    encrypted_possible_answer: FMuJXDZ9GxjZ2u3PhdFqx3OW9c1Q+bHQRrmn8mNYsQ8=
+    selected: false
+    status: Unchecked
+  encrypted_text: 7MBEVo9g9k8GnP4uM05YroHq0tX3fAN8zXETi/mHACSHrR+VfxVa4D0M+9aO33ERiPFByDJBKkLN4TpMRh7Apch3v38YDWkuaj8VOj4Nt8DV2/n+rn4Ba9pyOWDVk8v/JAtaP3FtNrx2/FZFRDe4hK5zXxEF0VRwBHPNmr4ROM5YVnWMN8qk/9L3lS5IM941oCTKd4QSCDwj3XpKsyyxPCv/UgcoQIZlDskIDuI/dhcJH4iqdvV8gbfUqcB/Ck1c6rbPWesySMl2lPeC65jy7kwbSGMmf6LpccCzEfcBN6kt0PObPweL1V5Nfg8bxw8E3maY/DttcmUGQ6Abzq/HPA==
+  learner_created: false
+- name: test/Tests.kt
+  visible: false
+  encrypted_text: 7MBEVo9g9k8GnP4uM05YrkRfRBLKtZqMKd7+moPs5LxZPyM/KBL8rzbpkXNhygrO7rRqSIobDn2gMOlarKmIo4acJT1ZstwSE7bn7Za0oPmpQ3biH3U+Tm+4KmrElHWuhte2aM4mnu7x07W3yHt8MbyCn3S50DuZxPVQEAV3qCREkX9eFb3n9FYpC18Mbc+tWapV6eiajBscrl/rTb2YzjvMPxCiLw5cQGFgVib9LrlRx7LmKYLVFiIx1bpgjjpXd2J3gZOUKcCwpnekNQi/pmhsLv0aTfZYdo30fRo0B+icsZKBe9OZxLRmlC3vM5I/cvFiIX5xIpYtJvPKaTpl9rIM/Gr/ACeelKh3qpZFGD24K4zc+dh3B96MqefQUx6YczjSEHP/Fk9PJmsKKMmdgxuSajH5hiSt+l1wh/kYa/RjJEa7WGTc/e8G/KZMDe7Cypsr3Lmd3dhfbV5gsSRsc/mjxh5cAFQiMHoBDbWjGfOcjixSBBy7PRT8ZgWZRgquqRGXQx2BjI+LVkdNMeY89sFXMcT1EVZkBLieJUxyp/ViOmie7kUVaY1r7fBRC8B4TdEwsy98AOrZ2S4Vy/lTB/NDW5iOSRqPVs0U3NQ2dyl61XFBBZ2M0y45EqPKIw8fzevKjzIULBmfvblavyKkhBDaGF6P4cH1x80lp8HiurnThmUfwgTHrWOfu8r3BPy+rw6P94PmctGNdVUtJgXlpkJAj3kn5Zi6MUId2baynlg=
+  learner_created: false
+status: Solved
+record: -1
+feedback:
+  message: Congratulations!
+  time: Sat, 15 Jun 2024 14:37:31 UTC
