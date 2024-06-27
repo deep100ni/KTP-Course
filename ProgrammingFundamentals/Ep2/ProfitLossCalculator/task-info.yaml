@@ -4,55 +4,55 @@ files:
     visible: true
     placeholders:
       - offset: 128
-        length: 22
+        length: 6
         placeholder_text: TODO()
         initial_state:
           length: 6
-          offset: 128
+          offset: 98
         initialized_from_dependency: false
         encrypted_possible_answer: A94HHC5GufoqLSYznhOXBnqm4o+12SG9ClTy2QNY3jU=
-        selected: false
+        selected: true
         status: Solved
         is_visible: false
-      - offset: 257
+      - offset: 241
         length: 53
         placeholder_text: return sp * 100 / (100 + pl)
         initial_state:
           length: 28
-          offset: 241
+          offset: 211
         initialized_from_dependency: false
         encrypted_possible_answer: PLSlppYtZZWm4Jl/757a5CBpqGzjT1nNOhdbgf9s3DCCGY2tt3dZToE76q0pXMb5
         selected: false
         status: Solved
         is_visible: false
-      - offset: 417
-        length: 52
+      - offset: 401
+        length: 27
         placeholder_text: return (sp - cp) / cp * 100
         initial_state:
           length: 27
-          offset: 376
+          offset: 346
         initialized_from_dependency: false
         encrypted_possible_answer: chiuu/k00OrrrjhdFRWEIuiNlsStqftE9PvR3BV5LJqYLgigcK2AV2rGkO0MYZGZuwT52PQvOnzIBKhpVY8atw==
         selected: false
         status: Solved
         is_visible: false
-      - offset: 515
-        length: 48
+      - offset: 474
+        length: 23
         placeholder_text: return absPL / cp * 100
         initial_state:
           length: 23
-          offset: 449
+          offset: 419
         initialized_from_dependency: false
         encrypted_possible_answer: 05czHJnKtfVynQ9VbJ1FChKPHcK+LDKc0uf4668bS7S8ZP0tELJFpMYhjks4uqpRyb7/P/PrV1+jqWGhhhLsjA==
         selected: false
         status: Solved
         is_visible: false
-      - offset: 609
-        length: 58
+      - offset: 543
+        length: 33
         placeholder_text: return absPL / (sp - absPL) * 100
         initial_state:
           length: 33
-          offset: 518
+          offset: 488
         initialized_from_dependency: false
         encrypted_possible_answer: 05czHJnKtfVynQ9VbJ1FCtID3OnYZ/IG5DI5SeNqfyHTQO4YSF7Tvzzo7pz8t+T6mHsgtEIWEWNdYn1D86K7OQ==
         selected: false
@@ -62,10 +62,10 @@ files:
     learner_created: false
   - name: test/Tests.kt
     visible: false
-    encrypted_text: 7MBEVo9g9k8GnP4uM05YrlQXBrspJWo1Jziw+IAzVikLw079QXSDtm75waMwFDRzoV2qYHPFKWK/pj+JnnQJ7hpC81eStCceMXaY3zrT5dZp9gUAQt1ZV6BwjYc3gJPNK/pKTczAnYgGwCZK2bTmUCWqOVL8WC94TCj8VHO/aO57LMFcmpvpKDQpNP5LHYtqCFpaXO7UFIzzIZqqfTrX0Upt3wOSLOom29RfUHWHeO2hngpZTLcGudiOUcIDcdMnnkimwVmOVFpByFxOiHFam2EG4zm9JJkvABPyPqtuHq42PSpZet/iuM0HUVPXfecI709MWqqccSjtJvYs6Ik7kqslsYFrkmhRkHjNa+6WiWQoA3sHAcpagnKWXpZGL4WxwSZgO6FP4Bv9E4/sFpAozoEwYLffN5lAgTH5h02TKcEM69e1QTtAn0RvcWTaeHGZDPNzC3/9MPbYuFEVUlpQ5+jlfkRiESeJALv9YVnvr5Q5Efxlfogdg0LXYiZzjmLGPL5eWSSWnfwreacxSIjba5mA0j//4V6RWaC86w7y5M2l/23Zf/Zxg7kyzvmgZtK5rs9B7+ugoKI7LWcK+IO9OvgpEoyKt9avvY8Y8l4WT4P5ol3jf07NptrS2k472Ops5XMvFcHNjeco09c1j0wC2LzGLi/GgOXmG1p+jX+rdf4xaPaAJWyP3yaNsObjyi2qppBA4E8PdH4oKdpDIhjPQ66phDlmapFkvgC4QzLjkzoTpqBHOctjf6qiESkQ4zgB2ZspPyRl1FM4vLs9PJh7hR5lw3+b6xKz0DzLXddrehIWfpgMOuzYNS/+mn8biOwDrXJYlgW0tyHZI5hF4g1sPgh358ey1orEz9ucEhAi7f+m1faUAiGK9j2fLZgY++SRCGWbDRRjcwfkzx9I4Y3LJJlkX7RywZGk6owPpdZYlYMd4zcVJuO5jEODOL3GDatSRXK9twZ+4S4vpi+wsGhWp13ur3wwu0rbm6HP1PMVnHFLg/E7wuU7Dz+Ge7oR2j1WK10NmD23AXnw4+b4jGBaJ0E/qDbtg9w4sW0dAJgj97SwzlYxzdJI8PCexhvqvznuMCyKnUQvz6ZZ/wBYQoTSS/+EWxF1YSq+EbBYlaliyriXlbfA783Kg+plxxLdmUcv
+    encrypted_text: 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
     learner_created: false
 status: Solved
 feedback:
   message: Congratulations!
-  time: "Wed, 12 Jun 2024 05:55:27 UTC"
+  time: "Wed, 10 Apr 2024 09:33:11 UTC"
 record: -1
